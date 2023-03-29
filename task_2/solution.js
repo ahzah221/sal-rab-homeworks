@@ -38,7 +38,7 @@ function calcDiscount(sum, min, discount) {
         else {
         discountSum = 0;
         }
-        
+         
         console.log(discountSum);    // Конец решения задания №2.2.
 
     return discountSum;
